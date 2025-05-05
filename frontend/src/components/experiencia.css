@@ -1,0 +1,36 @@
+#experiencia {
+  color: white;
+  padding-bottom: 50px;
+}
+
+.exp-item {
+  margin-bottom: 40px;
+  padding-left: 15px;
+  border-left: 3px solid #FF6A00;
+}
+
+.exp-item h4 {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #FF6A00;
+  margin-bottom: 5px;
+}
+
+.cargo {
+  font-weight: 500;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.cargo span {
+  font-weight: normal;
+  color: #ccc;
+  font-size: 0.95rem;
+  margin-left: 8px;
+}
+
+.descricao {
+  color: #ddd;
+  font-size: 0.95rem;
+  line-height: 1.6;
+}

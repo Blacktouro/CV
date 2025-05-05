@@ -1,0 +1,32 @@
+{
+    "experience": {
+      "thaiUnion": {
+        "title": "Thai Union",
+        "role": "Support Technician Level 2",
+        "period": "2024 - present",
+        "description": "Responsible for on-site and remote support..."
+      }
+    },
+    "navbar": {
+      "inicio": "🏠 Home",
+      "experiencia": "💼 Experience",
+      "projetos": "🛠 Projects",
+      "contacto": "✉️ Contact"
+    },
+    "main": {
+        "ola": "Hi, I'm André Morgado",
+        "descricao": "IT technician and web developer passionate about automation, infrastructure, and cybersecurity. I build modern digital solutions focused on efficiency and design. Solid experience with Docker, Linux, networking, fullstack web development, and systems management.",
+        "verProjetos": "View Projects",
+        "contactar": "Contact"
+   },
+     "experiencia": {
+    "titulo": "Professional Experience",
+    "thai_union": {
+      "empresa": "Thai Union",
+      "cargo": "IT Support Technician Level 2 (2024 - Present)",
+      "descricao": "Responsible for on-site and remote user support, maintenance and monitoring of Windows and Linux servers, network management (switches, routers, access points), administration of Active Directory, DNS and DHCP. Task automation using PowerShell and Python scripts, Docker for isolated environments, troubleshooting complex hardware/software issues, implementation of security best practices and backup policies. Continuous support to the IT infrastructure ensuring system stability and performance."
+    }
+  }
+
+  }
+  

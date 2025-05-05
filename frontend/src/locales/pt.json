@@ -1,0 +1,31 @@
+{
+    "experience": {
+      "thaiUnion": {
+        "title": "Thai Union",
+        "role": "Técnico de Suporte Nível 2",
+        "period": "2024 - atual",
+        "description": "Responsável pelo suporte técnico presencial e remoto..."
+      }
+    },
+    "navbar": {
+      "inicio": "🏠 Início",
+      "experiencia": "💼 Experiência",
+      "projetos": "🛠 Projetos",
+      "contacto": "✉️ Contacto"
+    },
+    "main": {
+        "ola": "Olá, sou o André Morgado",
+        "descricao": "Técnico de informática e desenvolvedor web apaixonado por automação, infraestrutura e cibersegurança. Crio soluções digitais modernas com foco em eficiência e design. Experiência sólida com Docker, Linux, redes, desenvolvimento web fullstack e gestão de sistemas.",
+        "verProjetos": "Ver Projetos",
+        "contactar": "Contactar"
+    },
+     "experiencia": {
+    "titulo": "Experiência Profissional",
+    "thai_union": {
+      "empresa": "Thai Union",
+      "cargo": "Técnico de Suporte Nível 2 (2024 - atual)",
+      "descricao": "Responsável pelo suporte técnico presencial e remoto a utilizadores, manutenção e monitorização de servidores Windows e Linux, gestão de redes (configuração de switches, routers e pontos de acesso), administração de Active Directory, DNS e DHCP. Automatização de tarefas com scripts em PowerShell e Python, utilização de Docker para ambientes isolados, resolução de problemas complexos de software e hardware, implementação de boas práticas de segurança e políticas de backup. Apoio contínuo à infraestrutura de TI da empresa, garantindo estabilidade e desempenho dos sistemas."
+    }
+  }
+  }
+  

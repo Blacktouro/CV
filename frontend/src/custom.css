@@ -1,0 +1,66 @@
+body {
+    background-color: #121212;
+    color: #ECEBE7;
+  }
+  
+  section {
+    padding-top: 60px;
+    padding-bottom: 60px;
+  }
+  
+  a, .nav-link, .navbar-brand {
+    color: #ECEBE7 !important;
+  }
+  
+  .navbar {
+    background-color: #1e1e1e !important;
+  }
+  
+  .card {
+    background-color: #1e1e1e;
+    border: none;
+    color: #ECEBE7;
+  }
+  
+  .btn-laranja {
+    background-color: #FF6A00;
+    color: #fff;
+  }
+  
+  .btn-laranja:hover {
+    background-color: #e65c00;
+  }
+  
+  .btn-verde {
+    background-color: #28a745;
+    color: #fff;
+  }
+  
+  .btn-verde:hover {
+    background-color: #218838;
+  }
+  
+
+
+  .tool-card {
+    width: 250px;
+    height: 320px;
+    background-color: #1e1e1e;
+    border-radius: 20px;
+    transition: transform 0.5s ease, opacity 0.5s ease;
+    opacity: 0.5;
+  }
+  
+  .carousel-item .tool-card:nth-child(2) {
+    transform: scale(1.1);
+    opacity: 1;
+    z-index: 2;
+    box-shadow: 0 0 15px #ff6a00aa;
+  }
+  
+  .carousel-control-prev-icon,
+  .carousel-control-next-icon {
+    background-color: rgba(255, 255, 255, 0.2);
+    border-radius: 50%;
+  }
+  

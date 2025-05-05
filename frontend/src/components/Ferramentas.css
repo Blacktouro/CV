@@ -1,0 +1,57 @@
+.ferramentas-grid {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 30px;
+    justify-content: flex-start;
+  }
+  
+  .ferramenta-item {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    color: #ECEBE7;
+    transition: transform 0.3s ease, filter 0.3s ease;
+    cursor: default;
+  }
+  
+  .ferramenta-item i {
+    font-size: 2rem;
+    color: #FF6A00;
+    transition: transform 0.3s ease;
+  }
+  
+  .ferramenta-item span,
+  .ferramenta-item div {
+    font-size: 0.85rem;
+    margin-top: 6px;
+  }
+  
+  .ferramenta-item:hover {
+    transform: scale(1.1);
+    filter: drop-shadow(0 0 8px rgba(255, 106, 0, 0.5));
+  }
+  
+  .ferramenta-item:hover i {
+    transform: scale(1.15);
+  }
+  
+  .categoria-titulo {
+    border-left: 6px solid #FF6A00;
+    position: relative;
+  }
+  
+  .titulo-frontend {
+    border-color: #FF6A00;
+    color: #FF6A00;
+  }
+  
+  .titulo-backend {
+    border-color: #01C0DB;
+    color: #01C0DB;
+  }
+  
+  .titulo-devops {
+    border-color: #28a745;
+    color: #28a745;
+  }
+  
