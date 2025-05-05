@@ -1,10 +1,41 @@
-# Ignorar node_modules
-node_modules/
+# ⚠️ Ficheiros sensíveis e config locais
 .env
-dist/
-.DS_Store
-*.log
+.env.local
+.env.*.local
+
+# ⚙️ Node.js
+node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+package-lock.json
+pnpm-lock.yaml
+
+# 🧱 Build
+dist/
+build/
+.vite/
+
+# 💻 IDEs
+.vscode/
+.idea/
+*.swp
+
+# 📦 Sistema
+.DS_Store
+Thumbs.db
+
+# Docker
+docker-compose.override.yml
+
+# Logs
+*.log
+
+# Certificados
+*.pem
+*.key
+*.crt
+
+# Outros
+coverage/
 
